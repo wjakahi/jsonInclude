@@ -3,7 +3,7 @@ jsonCallback(
  "messages":
   [
     {
-      "title": "Title of Message",
+      "title": "Title of Message from GitHub",
       "dateStart": "3/3/2018",
       "dateEnd": "3/7/2018",
       "message":
